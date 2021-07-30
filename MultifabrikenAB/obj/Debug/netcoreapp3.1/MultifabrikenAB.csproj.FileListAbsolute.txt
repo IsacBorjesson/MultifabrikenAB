@@ -1,0 +1,13 @@
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.exe
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.deps.json
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.runtimeconfig.json
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.runtimeconfig.dev.json
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.dll
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\bin\Debug\netcoreapp3.1\MultifabrikenAB.pdb
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.csprojAssemblyReference.cache
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.AssemblyInfoInputs.cache
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.AssemblyInfo.cs
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.csproj.CoreCompileInputs.cache
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.dll
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.pdb
+C:\Users\isacb\source\repos\MultifabrikenAB\MultifabrikenAB\obj\Debug\netcoreapp3.1\MultifabrikenAB.genruntimeconfig.cache
